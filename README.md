@@ -11,3 +11,6 @@ source ../kafka-python/bin/activate
 ./kafka-produce.py
 ./kafka-consume.py
 ```
+
+#Kafka Setup
+## Cluster Link
