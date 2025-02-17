@@ -1,5 +1,5 @@
 
-# ai-agent-kafka
+# Project to test out AI with Kafka
 
 
 # Python
