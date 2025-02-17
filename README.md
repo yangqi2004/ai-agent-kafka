@@ -12,5 +12,5 @@ source ../kafka-python/bin/activate
 ./kafka-consume.py
 ```
 
-#Kafka Setup
+# Kafka Setup
 ## Cluster Link
