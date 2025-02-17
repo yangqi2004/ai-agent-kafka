@@ -1,1 +1,13 @@
+
 # ai-agent-kafka
+
+
+# Python
+```
+# Test Kafka
+virtualenv kafka-python
+pip install confluent-kafka
+source ../kafka-python/bin/activate
+./kafka-produce.py
+./kafka-consume.py
+```
